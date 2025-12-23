@@ -10,7 +10,7 @@ Overall, the project highlights how the combined effects of rising prices, tight
 - Dashboard
 - Motivation
 - Questions
-- Normalizing the Data
+- Standardizing the Data
 - Problems and Hurdles
 - Technologies Used
 - Data Sources
@@ -18,7 +18,7 @@ Overall, the project highlights how the combined effects of rising prices, tight
 ---
 
 ## Dashboard
-* **Link:** *(Insert Power BI or Tableau link here)*
+
 ---
 ## Motivation
 This topic is of personal and analytical interest given my own experience navigating the Nashville housing market during this period of volatility. Having purchased a home in Nashville prior to the pandemic and later re-entering the market amid rising prices and higher interest rates, I observed firsthand how dramatically affordability conditions changed in a short period of time.
@@ -32,8 +32,8 @@ These experiences motivated me to examine the data behind those changes and bett
 3. How did changes in 30-year fixed mortgage interest rates between 2020 and 2023 influence homeownership affordability for a median-income household in Metro Nashville?
 4. Were changes in housing affordability evenly distributed across ZIP codes in Metro Nashville between 2020 and 2023, or did certain ZIP codes experience disproportionately larger shifts in affordability?
 ---
-## Normalizing the Data
-Data was standardized to a 2020�2023 annual timeframe. Monthly market indicators was aggregated annually, parcel data was filtered to single-family home sales, and ACS income data was aligned at the ZIP (ZCTA) level using population-weighted averages. A price-to-income ratio was then calculated by dividing median home sale prices by median household income, providing a consistent measure of housing affordability across time and geography.
+## Standardizing the Data
+Data was standardized to a 2020-2023 annual timeframe. Monthly market indicators was aggregated annually, parcel data was filtered to single-family home sales, and ACS income data was aligned at the ZIP (ZCTA) level using population-weighted averages. A price-to-income ratio was then calculated by dividing median home sale prices by median household income, providing a consistent measure of housing affordability across time and geography.
 ---
 ## Problems and Hurdles
 - Aligning ZIP codes across datasets
