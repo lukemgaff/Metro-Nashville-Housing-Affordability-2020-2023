@@ -1,4 +1,4 @@
-# Metro Nashville Housing Affordability (2020�2023)
+# Metro Nashville Housing Affordability (2020-2023)
 This capstone project examines changes in housing affordability in Metro Nashville during a period of significant market disruption between 2020 and 2023. The analysis focuses on how access to homeownership changed as home prices rose rapidly while household incomes, housing supply, and mortgage interest rates shifted unevenly across the region.
 
 Using housing market, census, and mortgage rate data, this project evaluates the relationship between median home prices, median household income, housing supply conditions, and borrowing costs. In addition to metro-level trends, the analysis explores ZIP-code–level differences to assess whether affordability pressures were evenly distributed or concentrated in specific neighborhoods.
